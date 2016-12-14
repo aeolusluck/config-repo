@@ -1,9 +1,4 @@
 spring:
-  profiles:
-    active: cloud
----
-spring:
-  profiles: cloud
   jpa:
     generate-ddl: false
     repositories:
