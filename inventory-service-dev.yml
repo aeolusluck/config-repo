@@ -25,3 +25,5 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone: http://service-registration:1111/eureka/
+server:
+  port: 8100
